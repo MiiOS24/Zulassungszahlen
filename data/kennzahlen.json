@@ -2,8 +2,8 @@
   "meta": {
     "titel": "Focus Caravaning Zulassungszahlen",
     "quelle": "Kraftfahrt-Bundesamt / Berechnungen: MiiOS",
-    "datenstand": "Juli 2026",
-    "aktualisiert_am": "2026-08-15"
+    "datenstand": "August 2026",
+    "aktualisiert_am": "2026-09-13"
   },
   "records": [
     {
@@ -392,6 +392,13 @@
       "wert": 11496
     },
     {
+      "jahr": 2026,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9296
+    },
+    {
       "jahr": 2022,
       "monat": 1,
       "fahrzeugart": "Wohnwagen",
@@ -775,6 +782,13 @@
       "fahrzeugart": "Wohnwagen",
       "kennzahl": "Besitzumschreibungen",
       "wert": 9528
+    },
+    {
+      "jahr": 2026,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8034
     },
     {
       "jahr": 2022,
@@ -1162,6 +1176,13 @@
       "wert": 6021
     },
     {
+      "jahr": 2026,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4128
+    },
+    {
       "jahr": 2022,
       "monat": 1,
       "fahrzeugart": "Wohnwagen",
@@ -1545,6 +1566,13 @@
       "fahrzeugart": "Wohnwagen",
       "kennzahl": "Neuzulassungen",
       "wert": 2038
+    },
+    {
+      "jahr": 2026,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1132
     }
   ],
   "trendValues": [
@@ -1785,7 +1813,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "fehlende_monate": []
     },
@@ -1880,7 +1909,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "fehlende_monate": []
     },
@@ -1975,7 +2005,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "fehlende_monate": []
     },
@@ -2070,7 +2101,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "fehlende_monate": []
     }
