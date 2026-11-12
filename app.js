@@ -182,11 +182,17 @@ function renderTrendChart(records, year, monthLimit) {
   const monthlyYears = [...new Set(records.map((item) => item.jahr))]
     .filter((itemYear) => itemYear < year)
     .sort((a, b) => a - b);
-  const fallbackTrend = monthlyYears.map((itemYear) => ({
+  const calculatedTrend = monthlyYears.map((itemYear) => ({
     jahr: itemYear,
     wert: sumFor(records, itemYear, 12),
   }));
-  const trendSource = storedTrend.length ? storedTrend : fallbackTrend;
+  const storedTrendByYear = new Map(storedTrend.map((item) => [item.jahr, item.wert]));
+  const trendSource = calculatedTrend
+    .map((item) => ({
+      ...item,
+      wert: storedTrendByYear.get(item.jahr) ?? item.wert,
+    }))
+    .slice(compact ? -4 : -6);
   const width = compact ? 360 : 760;
   const height = compact ? 220 : 210;
   const pad = compact

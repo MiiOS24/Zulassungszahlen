@@ -2,10 +2,1018 @@
   "meta": {
     "titel": "Focus Caravaning Zulassungszahlen",
     "quelle": "Kraftfahrt-Bundesamt / Berechnungen: MiiOS",
-    "datenstand": "September 2026",
-    "aktualisiert_am": "2026-10-13"
+    "datenstand": "Oktober 2026",
+    "aktualisiert_am": "2026-11-12"
   },
   "records": [
+    {
+      "jahr": 2010,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1550
+    },
+    {
+      "jahr": 2010,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2097
+    },
+    {
+      "jahr": 2010,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5324
+    },
+    {
+      "jahr": 2010,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5026
+    },
+    {
+      "jahr": 2010,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5251
+    },
+    {
+      "jahr": 2010,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4992
+    },
+    {
+      "jahr": 2010,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5130
+    },
+    {
+      "jahr": 2010,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4483
+    },
+    {
+      "jahr": 2010,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3932
+    },
+    {
+      "jahr": 2010,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3565
+    },
+    {
+      "jahr": 2010,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2838
+    },
+    {
+      "jahr": 2010,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1935
+    },
+    {
+      "jahr": 2011,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1856
+    },
+    {
+      "jahr": 2011,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2863
+    },
+    {
+      "jahr": 2011,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5105
+    },
+    {
+      "jahr": 2011,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5685
+    },
+    {
+      "jahr": 2011,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5410
+    },
+    {
+      "jahr": 2011,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5118
+    },
+    {
+      "jahr": 2011,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5195
+    },
+    {
+      "jahr": 2011,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4822
+    },
+    {
+      "jahr": 2011,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4234
+    },
+    {
+      "jahr": 2011,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3763
+    },
+    {
+      "jahr": 2011,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3032
+    },
+    {
+      "jahr": 2011,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2279
+    },
+    {
+      "jahr": 2012,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2144
+    },
+    {
+      "jahr": 2012,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2608
+    },
+    {
+      "jahr": 2012,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6077
+    },
+    {
+      "jahr": 2012,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5497
+    },
+    {
+      "jahr": 2012,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5604
+    },
+    {
+      "jahr": 2012,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4978
+    },
+    {
+      "jahr": 2012,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5617
+    },
+    {
+      "jahr": 2012,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4972
+    },
+    {
+      "jahr": 2012,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4101
+    },
+    {
+      "jahr": 2012,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4163
+    },
+    {
+      "jahr": 2012,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3039
+    },
+    {
+      "jahr": 2012,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1973
+    },
+    {
+      "jahr": 2013,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2280
+    },
+    {
+      "jahr": 2013,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3030
+    },
+    {
+      "jahr": 2013,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5421
+    },
+    {
+      "jahr": 2013,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5841
+    },
+    {
+      "jahr": 2013,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5929
+    },
+    {
+      "jahr": 2013,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5242
+    },
+    {
+      "jahr": 2013,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6334
+    },
+    {
+      "jahr": 2013,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5080
+    },
+    {
+      "jahr": 2013,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4330
+    },
+    {
+      "jahr": 2013,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4551
+    },
+    {
+      "jahr": 2013,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3085
+    },
+    {
+      "jahr": 2013,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2365
+    },
+    {
+      "jahr": 2014,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2753
+    },
+    {
+      "jahr": 2014,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3812
+    },
+    {
+      "jahr": 2014,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5733
+    },
+    {
+      "jahr": 2014,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7017
+    },
+    {
+      "jahr": 2014,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5949
+    },
+    {
+      "jahr": 2014,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5245
+    },
+    {
+      "jahr": 2014,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6269
+    },
+    {
+      "jahr": 2014,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5150
+    },
+    {
+      "jahr": 2014,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4963
+    },
+    {
+      "jahr": 2014,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4936
+    },
+    {
+      "jahr": 2014,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3427
+    },
+    {
+      "jahr": 2014,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2727
+    },
+    {
+      "jahr": 2015,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2496
+    },
+    {
+      "jahr": 2015,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3478
+    },
+    {
+      "jahr": 2015,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6977
+    },
+    {
+      "jahr": 2015,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6580
+    },
+    {
+      "jahr": 2015,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5851
+    },
+    {
+      "jahr": 2015,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5943
+    },
+    {
+      "jahr": 2015,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6745
+    },
+    {
+      "jahr": 2015,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5303
+    },
+    {
+      "jahr": 2015,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4954
+    },
+    {
+      "jahr": 2015,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5020
+    },
+    {
+      "jahr": 2015,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3832
+    },
+    {
+      "jahr": 2015,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3004
+    },
+    {
+      "jahr": 2016,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2654
+    },
+    {
+      "jahr": 2016,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4288
+    },
+    {
+      "jahr": 2016,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6874
+    },
+    {
+      "jahr": 2016,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6906
+    },
+    {
+      "jahr": 2016,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6471
+    },
+    {
+      "jahr": 2016,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6310
+    },
+    {
+      "jahr": 2016,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6184
+    },
+    {
+      "jahr": 2016,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6045
+    },
+    {
+      "jahr": 2016,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5947
+    },
+    {
+      "jahr": 2016,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5379
+    },
+    {
+      "jahr": 2016,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4030
+    },
+    {
+      "jahr": 2016,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3313
+    },
+    {
+      "jahr": 2017,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2769
+    },
+    {
+      "jahr": 2017,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4047
+    },
+    {
+      "jahr": 2017,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7222
+    },
+    {
+      "jahr": 2017,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6683
+    },
+    {
+      "jahr": 2017,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6870
+    },
+    {
+      "jahr": 2017,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6504
+    },
+    {
+      "jahr": 2017,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6599
+    },
+    {
+      "jahr": 2017,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6189
+    },
+    {
+      "jahr": 2017,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5501
+    },
+    {
+      "jahr": 2017,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5708
+    },
+    {
+      "jahr": 2017,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4625
+    },
+    {
+      "jahr": 2017,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3118
+    },
+    {
+      "jahr": 2018,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3541
+    },
+    {
+      "jahr": 2018,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4207
+    },
+    {
+      "jahr": 2018,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6772
+    },
+    {
+      "jahr": 2018,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7056
+    },
+    {
+      "jahr": 2018,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7176
+    },
+    {
+      "jahr": 2018,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6842
+    },
+    {
+      "jahr": 2018,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7542
+    },
+    {
+      "jahr": 2018,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6676
+    },
+    {
+      "jahr": 2018,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6008
+    },
+    {
+      "jahr": 2018,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6742
+    },
+    {
+      "jahr": 2018,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5100
+    },
+    {
+      "jahr": 2018,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3378
+    },
+    {
+      "jahr": 2019,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3646
+    },
+    {
+      "jahr": 2019,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4916
+    },
+    {
+      "jahr": 2019,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7316
+    },
+    {
+      "jahr": 2019,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8455
+    },
+    {
+      "jahr": 2019,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8063
+    },
+    {
+      "jahr": 2019,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6897
+    },
+    {
+      "jahr": 2019,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8437
+    },
+    {
+      "jahr": 2019,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7393
+    },
+    {
+      "jahr": 2019,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7028
+    },
+    {
+      "jahr": 2019,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7586
+    },
+    {
+      "jahr": 2019,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5913
+    },
+    {
+      "jahr": 2019,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4274
+    },
+    {
+      "jahr": 2020,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4887
+    },
+    {
+      "jahr": 2020,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6062
+    },
+    {
+      "jahr": 2020,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5850
+    },
+    {
+      "jahr": 2020,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4395
+    },
+    {
+      "jahr": 2020,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9374
+    },
+    {
+      "jahr": 2020,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 10965
+    },
+    {
+      "jahr": 2020,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 12348
+    },
+    {
+      "jahr": 2020,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9175
+    },
+    {
+      "jahr": 2020,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9024
+    },
+    {
+      "jahr": 2020,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9039
+    },
+    {
+      "jahr": 2020,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7756
+    },
+    {
+      "jahr": 2020,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5618
+    },
+    {
+      "jahr": 2021,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4126
+    },
+    {
+      "jahr": 2021,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5273
+    },
+    {
+      "jahr": 2021,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 10289
+    },
+    {
+      "jahr": 2021,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8218
+    },
+    {
+      "jahr": 2021,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8711
+    },
+    {
+      "jahr": 2021,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9022
+    },
+    {
+      "jahr": 2021,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8843
+    },
+    {
+      "jahr": 2021,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8444
+    },
+    {
+      "jahr": 2021,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8457
+    },
+    {
+      "jahr": 2021,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8774
+    },
+    {
+      "jahr": 2021,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7992
+    },
+    {
+      "jahr": 2021,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5876
+    },
     {
       "jahr": 2022,
       "monat": 1,
@@ -406,403 +1414,1019 @@
       "wert": 8793
     },
     {
-      "jahr": 2022,
-      "monat": 1,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 3645
-    },
-    {
-      "jahr": 2022,
-      "monat": 2,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4617
-    },
-    {
-      "jahr": 2022,
-      "monat": 3,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6862
-    },
-    {
-      "jahr": 2022,
-      "monat": 4,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7001
-    },
-    {
-      "jahr": 2022,
-      "monat": 5,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9018
-    },
-    {
-      "jahr": 2022,
-      "monat": 6,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9319
-    },
-    {
-      "jahr": 2022,
-      "monat": 7,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9674
-    },
-    {
-      "jahr": 2022,
-      "monat": 8,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9353
-    },
-    {
-      "jahr": 2022,
-      "monat": 9,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7429
-    },
-    {
-      "jahr": 2022,
+      "jahr": 2026,
       "monat": 10,
-      "fahrzeugart": "Wohnwagen",
+      "fahrzeugart": "Wohnmobile",
       "kennzahl": "Besitzumschreibungen",
-      "wert": 5061
+      "wert": 8131
     },
     {
-      "jahr": 2022,
-      "monat": 11,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4374
-    },
-    {
-      "jahr": 2022,
-      "monat": 12,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 2652
-    },
-    {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 1,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 3589
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 622
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 2,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4220
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 799
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 3,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6771
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3038
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 4,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6639
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2527
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 5,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8551
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3123
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 6,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9433
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2324
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 7,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9589
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1822
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 8,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9548
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1087
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 9,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7749
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 878
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 10,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6288
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 755
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 11,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4479
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 598
     },
     {
-      "jahr": 2023,
+      "jahr": 2010,
       "monat": 12,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 2431
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 566
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 1,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 3511
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 772
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 2,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4898
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1273
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 3,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6869
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2834
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 4,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8358
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3976
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 5,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8704
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3532
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 6,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8674
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2293
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 7,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9959
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2063
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 8,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9153
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1361
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 9,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7524
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1050
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 10,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6062
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1018
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 11,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4282
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 825
     },
     {
-      "jahr": 2024,
+      "jahr": 2011,
       "monat": 12,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 2594
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 794
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 1,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 3836
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 940
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 2,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4608
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1401
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 3,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6560
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4187
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 4,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8559
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3578
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 5,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9082
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3930
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 6,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8873
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2508
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 7,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 10755
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2256
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 8,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8544
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1367
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 9,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7858
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1047
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 10,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 5862
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1142
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 11,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 4000
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 888
     },
     {
-      "jahr": 2025,
+      "jahr": 2012,
       "monat": 12,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 2668
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 818
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 1,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 3001
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 895
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 2,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 3881
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1500
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 3,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7464
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3751
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 4,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7915
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4315
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 5,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 7705
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4018
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 6,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8877
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2547
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 7,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 9528
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2263
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 8,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 8034
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1441
     },
     {
-      "jahr": 2026,
+      "jahr": 2013,
       "monat": 9,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 6838
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1096
+    },
+    {
+      "jahr": 2013,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1198
+    },
+    {
+      "jahr": 2013,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 954
+    },
+    {
+      "jahr": 2013,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 831
+    },
+    {
+      "jahr": 2014,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1015
+    },
+    {
+      "jahr": 2014,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1676
+    },
+    {
+      "jahr": 2014,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3311
+    },
+    {
+      "jahr": 2014,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4980
+    },
+    {
+      "jahr": 2014,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3917
+    },
+    {
+      "jahr": 2014,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2910
+    },
+    {
+      "jahr": 2014,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2411
+    },
+    {
+      "jahr": 2014,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1365
+    },
+    {
+      "jahr": 2014,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1194
+    },
+    {
+      "jahr": 2014,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1196
+    },
+    {
+      "jahr": 2014,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 796
+    },
+    {
+      "jahr": 2014,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 975
+    },
+    {
+      "jahr": 2015,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 769
+    },
+    {
+      "jahr": 2015,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1589
+    },
+    {
+      "jahr": 2015,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4781
+    },
+    {
+      "jahr": 2015,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4424
+    },
+    {
+      "jahr": 2015,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4401
+    },
+    {
+      "jahr": 2015,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3343
+    },
+    {
+      "jahr": 2015,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3091
+    },
+    {
+      "jahr": 2015,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1535
+    },
+    {
+      "jahr": 2015,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1158
+    },
+    {
+      "jahr": 2015,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1324
+    },
+    {
+      "jahr": 2015,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1071
+    },
+    {
+      "jahr": 2015,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 862
+    },
+    {
+      "jahr": 2016,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1209
+    },
+    {
+      "jahr": 2016,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2208
+    },
+    {
+      "jahr": 2016,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5446
+    },
+    {
+      "jahr": 2016,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5663
+    },
+    {
+      "jahr": 2016,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5174
+    },
+    {
+      "jahr": 2016,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4155
+    },
+    {
+      "jahr": 2016,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3327
+    },
+    {
+      "jahr": 2016,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2355
+    },
+    {
+      "jahr": 2016,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1797
+    },
+    {
+      "jahr": 2016,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1531
+    },
+    {
+      "jahr": 2016,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1283
+    },
+    {
+      "jahr": 2016,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 987
+    },
+    {
+      "jahr": 2017,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1252
+    },
+    {
+      "jahr": 2017,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2311
+    },
+    {
+      "jahr": 2017,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5709
+    },
+    {
+      "jahr": 2017,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6530
+    },
+    {
+      "jahr": 2017,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6795
+    },
+    {
+      "jahr": 2017,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4493
+    },
+    {
+      "jahr": 2017,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3866
+    },
+    {
+      "jahr": 2017,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2901
+    },
+    {
+      "jahr": 2017,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2042
+    },
+    {
+      "jahr": 2017,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1783
+    },
+    {
+      "jahr": 2017,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1602
+    },
+    {
+      "jahr": 2017,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1284
+    },
+    {
+      "jahr": 2018,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1894
+    },
+    {
+      "jahr": 2018,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3432
+    },
+    {
+      "jahr": 2018,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6755
+    },
+    {
+      "jahr": 2018,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6844
+    },
+    {
+      "jahr": 2018,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6960
+    },
+    {
+      "jahr": 2018,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5112
+    },
+    {
+      "jahr": 2018,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4609
+    },
+    {
+      "jahr": 2018,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3208
+    },
+    {
+      "jahr": 2018,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2222
+    },
+    {
+      "jahr": 2018,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2486
+    },
+    {
+      "jahr": 2018,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1875
+    },
+    {
+      "jahr": 2018,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1462
+    },
+    {
+      "jahr": 2019,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2085
+    },
+    {
+      "jahr": 2019,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3311
+    },
+    {
+      "jahr": 2019,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6766
+    },
+    {
+      "jahr": 2019,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 9571
+    },
+    {
+      "jahr": 2019,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 8104
+    },
+    {
+      "jahr": 2019,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5533
+    },
+    {
+      "jahr": 2019,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5484
+    },
+    {
+      "jahr": 2019,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4606
+    },
+    {
+      "jahr": 2019,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2083
+    },
+    {
+      "jahr": 2019,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2610
+    },
+    {
+      "jahr": 2019,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2093
+    },
+    {
+      "jahr": 2019,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1676
+    },
+    {
+      "jahr": 2020,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3101
+    },
+    {
+      "jahr": 2020,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4974
+    },
+    {
+      "jahr": 2020,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6920
+    },
+    {
+      "jahr": 2020,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4284
+    },
+    {
+      "jahr": 2020,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 10460
+    },
+    {
+      "jahr": 2020,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 8975
+    },
+    {
+      "jahr": 2020,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 10678
+    },
+    {
+      "jahr": 2020,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 7369
+    },
+    {
+      "jahr": 2020,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5414
+    },
+    {
+      "jahr": 2020,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4798
+    },
+    {
+      "jahr": 2020,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4410
+    },
+    {
+      "jahr": 2020,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4845
+    },
+    {
+      "jahr": 2021,
+      "monat": 1,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3255
+    },
+    {
+      "jahr": 2021,
+      "monat": 2,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4832
+    },
+    {
+      "jahr": 2021,
+      "monat": 3,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 10533
+    },
+    {
+      "jahr": 2021,
+      "monat": 4,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 8301
+    },
+    {
+      "jahr": 2021,
+      "monat": 5,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 11304
+    },
+    {
+      "jahr": 2021,
+      "monat": 6,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 9388
+    },
+    {
+      "jahr": 2021,
+      "monat": 7,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 8438
+    },
+    {
+      "jahr": 2021,
+      "monat": 8,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 6024
+    },
+    {
+      "jahr": 2021,
+      "monat": 9,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4868
+    },
+    {
+      "jahr": 2021,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4930
+    },
+    {
+      "jahr": 2021,
+      "monat": 11,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 4165
+    },
+    {
+      "jahr": 2021,
+      "monat": 12,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3556
     },
     {
       "jahr": 2022,
@@ -1204,6 +2828,2435 @@
       "wert": 3350
     },
     {
+      "jahr": 2026,
+      "monat": 10,
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3395
+    },
+    {
+      "jahr": 2010,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1357
+    },
+    {
+      "jahr": 2010,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1844
+    },
+    {
+      "jahr": 2010,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5284
+    },
+    {
+      "jahr": 2010,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5981
+    },
+    {
+      "jahr": 2010,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6578
+    },
+    {
+      "jahr": 2010,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6606
+    },
+    {
+      "jahr": 2010,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7168
+    },
+    {
+      "jahr": 2010,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6141
+    },
+    {
+      "jahr": 2010,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4616
+    },
+    {
+      "jahr": 2010,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3582
+    },
+    {
+      "jahr": 2010,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2583
+    },
+    {
+      "jahr": 2010,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1398
+    },
+    {
+      "jahr": 2011,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1832
+    },
+    {
+      "jahr": 2011,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2843
+    },
+    {
+      "jahr": 2011,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5063
+    },
+    {
+      "jahr": 2011,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6273
+    },
+    {
+      "jahr": 2011,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7123
+    },
+    {
+      "jahr": 2011,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6835
+    },
+    {
+      "jahr": 2011,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7335
+    },
+    {
+      "jahr": 2011,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6502
+    },
+    {
+      "jahr": 2011,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5156
+    },
+    {
+      "jahr": 2011,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3627
+    },
+    {
+      "jahr": 2011,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2720
+    },
+    {
+      "jahr": 2011,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1897
+    },
+    {
+      "jahr": 2012,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2205
+    },
+    {
+      "jahr": 2012,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2382
+    },
+    {
+      "jahr": 2012,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5756
+    },
+    {
+      "jahr": 2012,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6292
+    },
+    {
+      "jahr": 2012,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7330
+    },
+    {
+      "jahr": 2012,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6680
+    },
+    {
+      "jahr": 2012,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7715
+    },
+    {
+      "jahr": 2012,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6725
+    },
+    {
+      "jahr": 2012,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4717
+    },
+    {
+      "jahr": 2012,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4177
+    },
+    {
+      "jahr": 2012,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2705
+    },
+    {
+      "jahr": 2012,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1518
+    },
+    {
+      "jahr": 2013,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2315
+    },
+    {
+      "jahr": 2013,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2724
+    },
+    {
+      "jahr": 2013,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4890
+    },
+    {
+      "jahr": 2013,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6185
+    },
+    {
+      "jahr": 2013,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7596
+    },
+    {
+      "jahr": 2013,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6829
+    },
+    {
+      "jahr": 2013,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8565
+    },
+    {
+      "jahr": 2013,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6802
+    },
+    {
+      "jahr": 2013,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5049
+    },
+    {
+      "jahr": 2013,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4320
+    },
+    {
+      "jahr": 2013,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2720
+    },
+    {
+      "jahr": 2013,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 1824
+    },
+    {
+      "jahr": 2014,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2854
+    },
+    {
+      "jahr": 2014,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3495
+    },
+    {
+      "jahr": 2014,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5616
+    },
+    {
+      "jahr": 2014,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7556
+    },
+    {
+      "jahr": 2014,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7228
+    },
+    {
+      "jahr": 2014,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7103
+    },
+    {
+      "jahr": 2014,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8753
+    },
+    {
+      "jahr": 2014,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6896
+    },
+    {
+      "jahr": 2014,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5908
+    },
+    {
+      "jahr": 2014,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4789
+    },
+    {
+      "jahr": 2014,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2905
+    },
+    {
+      "jahr": 2014,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2176
+    },
+    {
+      "jahr": 2015,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2295
+    },
+    {
+      "jahr": 2015,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3110
+    },
+    {
+      "jahr": 2015,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6641
+    },
+    {
+      "jahr": 2015,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7344
+    },
+    {
+      "jahr": 2015,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7518
+    },
+    {
+      "jahr": 2015,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8283
+    },
+    {
+      "jahr": 2015,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9055
+    },
+    {
+      "jahr": 2015,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7051
+    },
+    {
+      "jahr": 2015,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5977
+    },
+    {
+      "jahr": 2015,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4846
+    },
+    {
+      "jahr": 2015,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3283
+    },
+    {
+      "jahr": 2015,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2406
+    },
+    {
+      "jahr": 2016,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2708
+    },
+    {
+      "jahr": 2016,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4004
+    },
+    {
+      "jahr": 2016,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6592
+    },
+    {
+      "jahr": 2016,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7322
+    },
+    {
+      "jahr": 2016,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8095
+    },
+    {
+      "jahr": 2016,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8290
+    },
+    {
+      "jahr": 2016,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8215
+    },
+    {
+      "jahr": 2016,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8293
+    },
+    {
+      "jahr": 2016,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7385
+    },
+    {
+      "jahr": 2016,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5119
+    },
+    {
+      "jahr": 2016,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3665
+    },
+    {
+      "jahr": 2016,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2486
+    },
+    {
+      "jahr": 2017,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2524
+    },
+    {
+      "jahr": 2017,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3757
+    },
+    {
+      "jahr": 2017,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6988
+    },
+    {
+      "jahr": 2017,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7131
+    },
+    {
+      "jahr": 2017,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8556
+    },
+    {
+      "jahr": 2017,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8472
+    },
+    {
+      "jahr": 2017,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8812
+    },
+    {
+      "jahr": 2017,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8494
+    },
+    {
+      "jahr": 2017,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6625
+    },
+    {
+      "jahr": 2017,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5337
+    },
+    {
+      "jahr": 2017,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3975
+    },
+    {
+      "jahr": 2017,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2313
+    },
+    {
+      "jahr": 2018,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3407
+    },
+    {
+      "jahr": 2018,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3876
+    },
+    {
+      "jahr": 2018,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6071
+    },
+    {
+      "jahr": 2018,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7656
+    },
+    {
+      "jahr": 2018,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9131
+    },
+    {
+      "jahr": 2018,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8831
+    },
+    {
+      "jahr": 2018,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9794
+    },
+    {
+      "jahr": 2018,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8572
+    },
+    {
+      "jahr": 2018,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6679
+    },
+    {
+      "jahr": 2018,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5930
+    },
+    {
+      "jahr": 2018,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4125
+    },
+    {
+      "jahr": 2018,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2330
+    },
+    {
+      "jahr": 2019,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3415
+    },
+    {
+      "jahr": 2019,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4169
+    },
+    {
+      "jahr": 2019,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6251
+    },
+    {
+      "jahr": 2019,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8373
+    },
+    {
+      "jahr": 2019,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8840
+    },
+    {
+      "jahr": 2019,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8242
+    },
+    {
+      "jahr": 2019,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 10271
+    },
+    {
+      "jahr": 2019,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8943
+    },
+    {
+      "jahr": 2019,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7462
+    },
+    {
+      "jahr": 2019,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6175
+    },
+    {
+      "jahr": 2019,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4135
+    },
+    {
+      "jahr": 2019,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2590
+    },
+    {
+      "jahr": 2020,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4127
+    },
+    {
+      "jahr": 2020,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4573
+    },
+    {
+      "jahr": 2020,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4139
+    },
+    {
+      "jahr": 2020,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2549
+    },
+    {
+      "jahr": 2020,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7536
+    },
+    {
+      "jahr": 2020,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 11094
+    },
+    {
+      "jahr": 2020,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 12464
+    },
+    {
+      "jahr": 2020,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9897
+    },
+    {
+      "jahr": 2020,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9142
+    },
+    {
+      "jahr": 2020,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6799
+    },
+    {
+      "jahr": 2020,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4494
+    },
+    {
+      "jahr": 2020,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2846
+    },
+    {
+      "jahr": 2021,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2945
+    },
+    {
+      "jahr": 2021,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3497
+    },
+    {
+      "jahr": 2021,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7081
+    },
+    {
+      "jahr": 2021,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6493
+    },
+    {
+      "jahr": 2021,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7806
+    },
+    {
+      "jahr": 2021,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9564
+    },
+    {
+      "jahr": 2021,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9897
+    },
+    {
+      "jahr": 2021,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9455
+    },
+    {
+      "jahr": 2021,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8582
+    },
+    {
+      "jahr": 2021,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6297
+    },
+    {
+      "jahr": 2021,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4637
+    },
+    {
+      "jahr": 2021,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2965
+    },
+    {
+      "jahr": 2022,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3645
+    },
+    {
+      "jahr": 2022,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4617
+    },
+    {
+      "jahr": 2022,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6862
+    },
+    {
+      "jahr": 2022,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7001
+    },
+    {
+      "jahr": 2022,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9018
+    },
+    {
+      "jahr": 2022,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9319
+    },
+    {
+      "jahr": 2022,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9674
+    },
+    {
+      "jahr": 2022,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9353
+    },
+    {
+      "jahr": 2022,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7429
+    },
+    {
+      "jahr": 2022,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5061
+    },
+    {
+      "jahr": 2022,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4374
+    },
+    {
+      "jahr": 2022,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2652
+    },
+    {
+      "jahr": 2023,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3589
+    },
+    {
+      "jahr": 2023,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4220
+    },
+    {
+      "jahr": 2023,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6771
+    },
+    {
+      "jahr": 2023,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6639
+    },
+    {
+      "jahr": 2023,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8551
+    },
+    {
+      "jahr": 2023,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9433
+    },
+    {
+      "jahr": 2023,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9589
+    },
+    {
+      "jahr": 2023,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9548
+    },
+    {
+      "jahr": 2023,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7749
+    },
+    {
+      "jahr": 2023,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6288
+    },
+    {
+      "jahr": 2023,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4479
+    },
+    {
+      "jahr": 2023,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2431
+    },
+    {
+      "jahr": 2024,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3511
+    },
+    {
+      "jahr": 2024,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4898
+    },
+    {
+      "jahr": 2024,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6869
+    },
+    {
+      "jahr": 2024,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8358
+    },
+    {
+      "jahr": 2024,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8704
+    },
+    {
+      "jahr": 2024,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8674
+    },
+    {
+      "jahr": 2024,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9959
+    },
+    {
+      "jahr": 2024,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9153
+    },
+    {
+      "jahr": 2024,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7524
+    },
+    {
+      "jahr": 2024,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6062
+    },
+    {
+      "jahr": 2024,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4282
+    },
+    {
+      "jahr": 2024,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2594
+    },
+    {
+      "jahr": 2025,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3836
+    },
+    {
+      "jahr": 2025,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4608
+    },
+    {
+      "jahr": 2025,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6560
+    },
+    {
+      "jahr": 2025,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8559
+    },
+    {
+      "jahr": 2025,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9082
+    },
+    {
+      "jahr": 2025,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8873
+    },
+    {
+      "jahr": 2025,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 10755
+    },
+    {
+      "jahr": 2025,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8544
+    },
+    {
+      "jahr": 2025,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7858
+    },
+    {
+      "jahr": 2025,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5862
+    },
+    {
+      "jahr": 2025,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 4000
+    },
+    {
+      "jahr": 2025,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 2668
+    },
+    {
+      "jahr": 2026,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3001
+    },
+    {
+      "jahr": 2026,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 3881
+    },
+    {
+      "jahr": 2026,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7464
+    },
+    {
+      "jahr": 2026,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7915
+    },
+    {
+      "jahr": 2026,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 7705
+    },
+    {
+      "jahr": 2026,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8877
+    },
+    {
+      "jahr": 2026,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 9528
+    },
+    {
+      "jahr": 2026,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 8034
+    },
+    {
+      "jahr": 2026,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 6838
+    },
+    {
+      "jahr": 2026,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 5518
+    },
+    {
+      "jahr": 2010,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 365
+    },
+    {
+      "jahr": 2010,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 596
+    },
+    {
+      "jahr": 2010,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2365
+    },
+    {
+      "jahr": 2010,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2204
+    },
+    {
+      "jahr": 2010,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2661
+    },
+    {
+      "jahr": 2010,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1988
+    },
+    {
+      "jahr": 2010,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1705
+    },
+    {
+      "jahr": 2010,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1097
+    },
+    {
+      "jahr": 2010,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 941
+    },
+    {
+      "jahr": 2010,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 751
+    },
+    {
+      "jahr": 2010,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 540
+    },
+    {
+      "jahr": 2010,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 345
+    },
+    {
+      "jahr": 2011,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 395
+    },
+    {
+      "jahr": 2011,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 981
+    },
+    {
+      "jahr": 2011,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2219
+    },
+    {
+      "jahr": 2011,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2831
+    },
+    {
+      "jahr": 2011,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2856
+    },
+    {
+      "jahr": 2011,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2195
+    },
+    {
+      "jahr": 2011,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1809
+    },
+    {
+      "jahr": 2011,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1241
+    },
+    {
+      "jahr": 2011,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 992
+    },
+    {
+      "jahr": 2011,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 802
+    },
+    {
+      "jahr": 2011,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 575
+    },
+    {
+      "jahr": 2011,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 408
+    },
+    {
+      "jahr": 2012,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 536
+    },
+    {
+      "jahr": 2012,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 957
+    },
+    {
+      "jahr": 2012,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2871
+    },
+    {
+      "jahr": 2012,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2509
+    },
+    {
+      "jahr": 2012,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2909
+    },
+    {
+      "jahr": 2012,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1846
+    },
+    {
+      "jahr": 2012,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1894
+    },
+    {
+      "jahr": 2012,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1173
+    },
+    {
+      "jahr": 2012,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 951
+    },
+    {
+      "jahr": 2012,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 927
+    },
+    {
+      "jahr": 2012,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 580
+    },
+    {
+      "jahr": 2012,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 458
+    },
+    {
+      "jahr": 2013,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 554
+    },
+    {
+      "jahr": 2013,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 869
+    },
+    {
+      "jahr": 2013,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2511
+    },
+    {
+      "jahr": 2013,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2552
+    },
+    {
+      "jahr": 2013,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2670
+    },
+    {
+      "jahr": 2013,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1763
+    },
+    {
+      "jahr": 2013,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1852
+    },
+    {
+      "jahr": 2013,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1189
+    },
+    {
+      "jahr": 2013,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 891
+    },
+    {
+      "jahr": 2013,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 837
+    },
+    {
+      "jahr": 2013,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 571
+    },
+    {
+      "jahr": 2013,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 381
+    },
+    {
+      "jahr": 2014,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 561
+    },
+    {
+      "jahr": 2014,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 910
+    },
+    {
+      "jahr": 2014,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2037
+    },
+    {
+      "jahr": 2014,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2861
+    },
+    {
+      "jahr": 2014,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2517
+    },
+    {
+      "jahr": 2014,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1995
+    },
+    {
+      "jahr": 2014,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2065
+    },
+    {
+      "jahr": 2014,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1151
+    },
+    {
+      "jahr": 2014,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 947
+    },
+    {
+      "jahr": 2014,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1074
+    },
+    {
+      "jahr": 2014,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 568
+    },
+    {
+      "jahr": 2014,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 487
+    },
+    {
+      "jahr": 2015,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 579
+    },
+    {
+      "jahr": 2015,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1035
+    },
+    {
+      "jahr": 2015,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2764
+    },
+    {
+      "jahr": 2015,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2623
+    },
+    {
+      "jahr": 2015,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2840
+    },
+    {
+      "jahr": 2015,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2193
+    },
+    {
+      "jahr": 2015,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2200
+    },
+    {
+      "jahr": 2015,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1170
+    },
+    {
+      "jahr": 2015,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 979
+    },
+    {
+      "jahr": 2015,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1385
+    },
+    {
+      "jahr": 2015,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 546
+    },
+    {
+      "jahr": 2015,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 459
+    },
+    {
+      "jahr": 2016,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 569
+    },
+    {
+      "jahr": 2016,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1313
+    },
+    {
+      "jahr": 2016,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2807
+    },
+    {
+      "jahr": 2016,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3148
+    },
+    {
+      "jahr": 2016,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2821
+    },
+    {
+      "jahr": 2016,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2585
+    },
+    {
+      "jahr": 2016,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2108
+    },
+    {
+      "jahr": 2016,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1317
+    },
+    {
+      "jahr": 2016,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1076
+    },
+    {
+      "jahr": 2016,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 826
+    },
+    {
+      "jahr": 2016,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 674
+    },
+    {
+      "jahr": 2016,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 493
+    },
+    {
+      "jahr": 2017,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 621
+    },
+    {
+      "jahr": 2017,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1281
+    },
+    {
+      "jahr": 2017,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3169
+    },
+    {
+      "jahr": 2017,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3240
+    },
+    {
+      "jahr": 2017,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3713
+    },
+    {
+      "jahr": 2017,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2819
+    },
+    {
+      "jahr": 2017,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2486
+    },
+    {
+      "jahr": 2017,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1487
+    },
+    {
+      "jahr": 2017,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1262
+    },
+    {
+      "jahr": 2017,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1033
+    },
+    {
+      "jahr": 2017,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 881
+    },
+    {
+      "jahr": 2017,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 553
+    },
+    {
+      "jahr": 2018,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 857
+    },
+    {
+      "jahr": 2018,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1442
+    },
+    {
+      "jahr": 2018,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3200
+    },
+    {
+      "jahr": 2018,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3440
+    },
+    {
+      "jahr": 2018,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3481
+    },
+    {
+      "jahr": 2018,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2862
+    },
+    {
+      "jahr": 2018,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2904
+    },
+    {
+      "jahr": 2018,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1701
+    },
+    {
+      "jahr": 2018,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1318
+    },
+    {
+      "jahr": 2018,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1243
+    },
+    {
+      "jahr": 2018,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 896
+    },
+    {
+      "jahr": 2018,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 624
+    },
+    {
+      "jahr": 2019,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 927
+    },
+    {
+      "jahr": 2019,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1807
+    },
+    {
+      "jahr": 2019,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3227
+    },
+    {
+      "jahr": 2019,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3974
+    },
+    {
+      "jahr": 2019,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3976
+    },
+    {
+      "jahr": 2019,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2925
+    },
+    {
+      "jahr": 2019,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3157
+    },
+    {
+      "jahr": 2019,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1815
+    },
+    {
+      "jahr": 2019,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1572
+    },
+    {
+      "jahr": 2019,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1370
+    },
+    {
+      "jahr": 2019,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1012
+    },
+    {
+      "jahr": 2019,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 734
+    },
+    {
+      "jahr": 2020,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1196
+    },
+    {
+      "jahr": 2020,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2049
+    },
+    {
+      "jahr": 2020,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2766
+    },
+    {
+      "jahr": 2020,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1692
+    },
+    {
+      "jahr": 2020,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3338
+    },
+    {
+      "jahr": 2020,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3523
+    },
+    {
+      "jahr": 2020,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 5100
+    },
+    {
+      "jahr": 2020,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2657
+    },
+    {
+      "jahr": 2020,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1944
+    },
+    {
+      "jahr": 2020,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1660
+    },
+    {
+      "jahr": 2020,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1426
+    },
+    {
+      "jahr": 2020,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1334
+    },
+    {
+      "jahr": 2021,
+      "monat": 1,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 741
+    },
+    {
+      "jahr": 2021,
+      "monat": 2,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1277
+    },
+    {
+      "jahr": 2021,
+      "monat": 3,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3082
+    },
+    {
+      "jahr": 2021,
+      "monat": 4,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2544
+    },
+    {
+      "jahr": 2021,
+      "monat": 5,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2879
+    },
+    {
+      "jahr": 2021,
+      "monat": 6,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3391
+    },
+    {
+      "jahr": 2021,
+      "monat": 7,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 3383
+    },
+    {
+      "jahr": 2021,
+      "monat": 8,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 2282
+    },
+    {
+      "jahr": 2021,
+      "monat": 9,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1816
+    },
+    {
+      "jahr": 2021,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1343
+    },
+    {
+      "jahr": 2021,
+      "monat": 11,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 1018
+    },
+    {
+      "jahr": 2021,
+      "monat": 12,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 613
+    },
+    {
       "jahr": 2022,
       "monat": 1,
       "fahrzeugart": "Wohnwagen",
@@ -1601,6 +5654,13 @@
       "fahrzeugart": "Wohnwagen",
       "kennzahl": "Neuzulassungen",
       "wert": 1032
+    },
+    {
+      "jahr": 2026,
+      "monat": 10,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "wert": 983
     }
   ],
   "trendValues": [
@@ -1642,42 +5702,6 @@
     },
     {
       "jahr": 2020,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 79660
-    },
-    {
-      "jahr": 2021,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 79219
-    },
-    {
-      "jahr": 2022,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 78915
-    },
-    {
-      "jahr": 2023,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 79287
-    },
-    {
-      "jahr": 2024,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 80588
-    },
-    {
-      "jahr": 2025,
-      "fahrzeugart": "Wohnwagen",
-      "kennzahl": "Besitzumschreibungen",
-      "wert": 81205
-    },
-    {
-      "jahr": 2020,
       "fahrzeugart": "Wohnmobile",
       "kennzahl": "Neuzulassungen",
       "wert": 76228
@@ -1711,6 +5735,42 @@
       "fahrzeugart": "Wohnmobile",
       "kennzahl": "Neuzulassungen",
       "wert": 71575
+    },
+    {
+      "jahr": 2020,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 79660
+    },
+    {
+      "jahr": 2021,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 79219
+    },
+    {
+      "jahr": 2022,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 78915
+    },
+    {
+      "jahr": 2023,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 79287
+    },
+    {
+      "jahr": 2024,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 80588
+    },
+    {
+      "jahr": 2025,
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "wert": 81205
     },
     {
       "jahr": 2020,
@@ -1753,6 +5813,246 @@
     {
       "fahrzeugart": "Wohnmobile",
       "kennzahl": "Besitzumschreibungen",
+      "jahr": 2010,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2011,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2012,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2013,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2014,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2015,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2016,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2017,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2018,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2019,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2020,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2021,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Besitzumschreibungen",
       "jahr": 2022,
       "monate": [
         1,
@@ -1843,7 +6143,248 @@
         6,
         7,
         8,
-        9
+        9,
+        10
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2010,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2011,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2012,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2013,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2014,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2015,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2016,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2017,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2018,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2019,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2020,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnmobile",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2021,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "fehlende_monate": []
     },
@@ -1940,7 +6481,248 @@
         6,
         7,
         8,
-        9
+        9,
+        10
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2010,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2011,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2012,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2013,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2014,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2015,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2016,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2017,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2018,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2019,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2020,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Besitzumschreibungen",
+      "jahr": 2021,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "fehlende_monate": []
     },
@@ -2037,7 +6819,248 @@
         6,
         7,
         8,
-        9
+        9,
+        10
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2010,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2011,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2012,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2013,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2014,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2015,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2016,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2017,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2018,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2019,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2020,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "fehlende_monate": []
+    },
+    {
+      "fahrzeugart": "Wohnwagen",
+      "kennzahl": "Neuzulassungen",
+      "jahr": 2021,
+      "monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "fehlende_monate": []
     },
@@ -2134,7 +7157,8 @@
         6,
         7,
         8,
-        9
+        9,
+        10
       ],
       "fehlende_monate": []
     }
