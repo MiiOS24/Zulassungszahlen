@@ -258,7 +258,12 @@ function update() {
 
   qs("headline").textContent = `${state.kennzahl} ${state.fahrzeugart}`;
   qs("subline").textContent = `Auswertungsstand: ${MONTH_NAMES[month - 1]} ${year}`;
-  qs("sourceLabel").textContent = state.payload.meta.quelle;
+  qs("sourceLabel").innerHTML = `
+  Datenquelle: Kraftfahrt-Bundesamt (KBA), Fahrzeugzulassungen FZ 8 und FZ 9.<br>
+  Eigene Aufbereitung und Berechnungen: MiiOS.<br>
+  Lizenz: <a href="https://www.govdata.de/dl-de/by-2-0"
+  target="_blank" rel="noopener">Datenlizenz Deutschland – Namensnennung 2.0</a>
+  `;
   qs("currentValue").textContent = euroNumber.format(currentValue);
   qs("currentLabel").textContent = `${state.kennzahl} im ${MONTH_NAMES[month - 1]} ${year}`;
   setDelta(qs("currentDelta"), pct(currentValue, previousValue), `gegenüber ${MONTH_NAMES[month - 1]} ${previousYear}`);
